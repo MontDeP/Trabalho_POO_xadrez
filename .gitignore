@@ -1,0 +1,17 @@
+# Planejamento interno (não versionado)
+PLANEJAMENTO.md
+
+# Arquivos compilados Java
+bin/
+*.class
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# macOS
+.DS_Store
