@@ -109,3 +109,6 @@ Importe o projeto, defina `src` como source folder e execute `Program.java`.
 ## Autores
 
 Desenvolvido em dupla como trabalho da disciplina de Programação Orientada a Objetos.
+
+- **Arthur Bispo** — Ciências da Computação
+- **Mauricio Monteiro** — Ciências da Computação
